@@ -620,11 +620,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
 * [awesome-apollo-graphql](https://github.com/ooade/awesome-apollo-graphql) – [Apollo GraphQL](https://www.apollographql.com/)
 * [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) – Ideas for apps to demonstrate how framework or library approach specific problems.
-* [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) – [Appium](http://appium.io/) test automation frmework
+* [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) – [Appium](http://appium.io/) test automation framework
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec) – Resources for developers to learn application security.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
-* [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) – Arduino hardwares, libraries and softwares with update script
+* [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) – Arduino hardware, libraries, and software with update script
 * [awesome-argo](https://github.com/terrytangyuan/awesome-argo) – [Argo](https://argoproj.github.io/) tools for Kubernetes.
 * [awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) – ARM processors security and exploitation.
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
