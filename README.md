@@ -289,7 +289,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frontend-development](https://github.com/mojpm/frontend-development)
 * [frontend-resources](https://github.com/JonathanZWhite/frontend-resources) by @JonathanZWhite
 * [frontend-resources](https://github.com/zedix/frontend-resources) by @zedix
-* [frontend-stuff](https://github.com/moklick/frontend-stuff) – Framework/libraries/tools to use when building things on the web. Mostly Javascript stuff.
+* [frontend-stuff](https://github.com/moklick/frontend-stuff) – Framework/libraries/tools to use when building things on the web. Mostly JavaScript stuff.
 * [frontend-tools](https://github.com/codylindley/frontend-tools) – Tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 * [fsharp-companies](https://github.com/Kavignon/fsharp-companies) – Companies that use F#
 * [game-datasets](https://github.com/leomaurodesenv/game-datasets) – Game datasets, tools for artificial intelligence in games
@@ -346,9 +346,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design)
 * [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 * [jsemu](https://github.com/fcambus/jsemu) – Emulators written in JavaScript.
-* [jslibs](https://github.com/esamattis/jslibs) – My picks of promising/useful Javascript libraries.
+* [jslibs](https://github.com/esamattis/jslibs) – My picks of promising/useful JavaScript libraries.
   - *See also [JSwiki](http://jswiki.org/)*
-* [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript.
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about JavaScript.
 * [jsonauts](https://github.com/jsonauts/jsonauts.github.com) – The ultimate reference for JSON tooling and specs.
   - http://jsonauts.github.io/
 * [jstips](https://github.com/loverajoel/jstips) – JavaScript tips
@@ -406,7 +406,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://rubynlp.org
 * [node-daily](https://github.com/dailyNode/node-daily) _In Chinese_ – Daily article about Node.js.
 * [node-frameworks](https://github.com/pillarjs/node-frameworks) – Comparison of server-side Node frameworks.
-* [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and Javascript Conference Call for Presentations.
+* [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and JavaScript Conference Call for Presentations.
 * [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) – Resources to help you learn Node.js and keep up to date.
 * [NotesIndex](https://github.com/Wilbeibi/NotesIndex)
 * [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) – Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
