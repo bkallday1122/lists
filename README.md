@@ -299,8 +299,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) – git and git flow cheat sheet
   - http://bilalarslan.me/git-cheat-sheet/
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
-* [github-drama](https://github.com/neodrama/github-drama) - Heated/controversial Github discussions
-* [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
+* [github-drama](https://github.com/neodrama/github-drama) - Heated/controversial GitHub discussions
+* [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on GitHub.
 * [GoBooks](https://github.com/dariubs/GoBooks) – Golang books.
 * [go-is-not-good](https://github.com/ksimka/go-is-not-good) – Articles that complain about Golang's imperfection.
 * [go-must-watch](https://github.com/sauravtom/go-must-watch) – Must-watch videos about Golang.
@@ -366,7 +366,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learn-for-free](https://github.com/aviaryan/learn-for-free) – Free learning resources for all topics you can think of.
 * [learnhaskell](https://github.com/bitemyapp/learnhaskell) – A curated guide for learning Haskell.
-* [learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos) – Github repositories that you can use in your coding journey.
+* [learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos) – GitHub repositories that you can use in your coding journey.
 * [learn-python](https://github.com/adrianmoisey/learn-python) by @adrianmoisey – Links that teach Python.
 * [learn-python](https://github.com/trekhleb/learn-python) by @trekhleb – Python scripts that are split by topics and contain code examples with explanations.
 * [learn-to-program](https://github.com/karlhorky/learn-to-program) – Foundation in Web Development.
@@ -448,7 +448,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
 * [py-must-watch](https://github.com/s16h/py-must-watch) by @s16h – Must-watch videos about Python.
-* [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
+* [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on GitHub.
   - http://itgeekworkhard.com/python-github-projects/
 * [pythonidae](https://github.com/svaksha/pythonidae) – Curated decibans of Python scientific programming resources.
   - http://svaksha.github.io/pythonidae/
@@ -484,7 +484,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) – What are the most popular libraries in the RxJS ecosystem?
 * [rx-react-flux](https://github.com/christianramsey/rx-react-flux) – RxJS + React/Flux implementations.
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) – Collected dispatches from The Quest for Scalable CSS.
-* [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) – Checklist / collection of Search Engine Optimization (SEO) tips and technics.
+* [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) – Checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [SecLists](https://github.com/danielmiessler/SecLists) – Lists used during security assessments: usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [Security_list](https://github.com/zbetcheckin/Security_list)
@@ -1602,7 +1602,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [delightful](https://codeberg.org/teaserbot-labs/delightful) – Home of delightful curated lists of free software, open science and information sources.
 * [delightful-club](https://codeberg.org/yarmo/delightful-club) – The delightful curated list of delightful curated lists
   - https://delightful.club/
-* [getAwesomeness](https://github.com/panzhangwang/getAwesomeness) – Explorer designed for curated awesome list hosted on Github
+* [getAwesomeness](https://github.com/panzhangwang/getAwesomeness) – Explorer designed for curated awesome list hosted on GitHub
   - https://getawesomeness.herokuapp.com/
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
@@ -1617,7 +1617,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesome-awesome](https://github.com/geekan/awesome-awesome-awesome) by @geekan – An awesome-awesome list.
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) by @t3chnoboy – A curated list of curated lists of awesome lists.
 * [awesomecubed](https://github.com/hunterboerner/awesomecubed) – A curated list of awesome awesomeness awesomenesses.
-* [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists.
+* [lologl](https://github.com/yaph/lologl) – List of Lists of GitHub Lists.
 * [meta-awesome](https://github.com/PatrickMcDonald/meta-awesome)
 * [the one above](#lists-of-lists)
 
