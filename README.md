@@ -567,7 +567,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [awesome-2048-and-beyond](https://github.com/cstrap/awesome-2048-and-beyond) – Waste and lose at least 8 hours of your life… then **multiply** it…
 * [awesome4girls](https://github.com/cristianoliveira/awesome4girls) – Inclusive events/projects/initiatives for women in the tech area.
-* [awesome-a11y](https://github.com/brunopulis/awesome-a11y) – Accesibility tools, articles and resources.
+* [awesome-a11y](https://github.com/brunopulis/awesome-a11y) – Accessibility tools, articles and resources.
 * [awesome-a2a-libraries](https://github.com/nMaroulis/awesome-a2a-libraries) – [Agent2Agent (A2A) protocol](https://a2a-protocol.org/) libraries and SDKs.
 * [awesome-accessibility](https://github.com/GonzagaAccess/awesome-accessibility) – Utilities for accessibility-based web development
 * [awesome-acf](https://github.com/navidkashani/awesome-acf) – Add-ons for the Advanced Custom Field plugin for WordPress.
@@ -664,7 +664,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) – Deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2022)
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 * [awesome-blender](https://github.com/agmmnn/awesome-blender) – [Blender](https://www.blender.org/) add-ons, tools, tutorials and 3D resources.
-* [awesome-blockchain](https://github.com/0xtokens/awesome-blockchain) by @0xtokens – Blockchain and Crytocurrency Resources
+* [awesome-blockchain](https://github.com/0xtokens/awesome-blockchain) by @0xtokens – Blockchain and Cryptocurrency Resources
 * [awesome-blockchain](https://github.com/coderplex-org/awesome-blockchain) by @coderplex-org – Blockchain, Bitcoin and Ethereum related resources
 * [awesome-blockchain](https://github.com/cyberFund/awesome-blockchain) _In Russian_ by @cyberFund – Digest of knowledge about crypto networks (including cryptocurrencies).
 * [awesome-blockchain](https://github.com/hitripod/awesome-blockchain) by @hitripod
@@ -711,7 +711,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-choo](https://github.com/choojs/awesome-choo) – [choo](https://choo.io/) web framework
 * [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) – Chrome DevTools ecosystem tooling and resources.
 * [awesome-ci](https://github.com/ligurio/awesome-ci) by @ligurio – Comparison of cloud based CI services.
-* [awesome-ci](https://github.com/pditommaso/awesome-ci) by @pditommaso – Continuous integation services.
+* [awesome-ci](https://github.com/pditommaso/awesome-ci) by @pditommaso – Continuous integration services.
 * [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) – Continuous Integration and Continuous Delivery
   - http://www.ciandcd.com/
 * [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) – [CircuitPython](https://circuitpython.org/) microcontrollers programming language
@@ -1016,7 +1016,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) – Information retrieval resources
 * [awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit) – InspectIT documentations and resources.
-* [awesome-integration](https://github.com/stn1slv/awesome-integration) – Sntegration software, patterns, and resources.
+* [awesome-integration](https://github.com/stn1slv/awesome-integration) – Integration software, patterns, and resources.
 * [AwesomeInterpreter](https://github.com/BaseMax/AwesomeInterpreter) – Open-source code interpreters on GitHub.
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) – Interview questions.
 * [awesome-ionic](https://github.com/candelibas/awesome-ionic) – [Ionic](https://ionicframework.com/) mobile development framework
